@@ -1,5 +1,5 @@
 the Julia Programming Language
-1. Julia中文社区 https://discourse.juliacn.com/、Julia函数查询、Julia package查询、
+1. Julia中文社区 https://discourse.juliacn.com/、Julia函数查询 jlhub、Julia package查询 http://packagecontrol.cn/packages/Julia、
 2. 背景：2012始
 3. 擅长：高性能计算
 4. 优点：非常快、非常易用、通用、开源、兼容其他语言等等
