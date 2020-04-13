@@ -10,8 +10,14 @@ the Julia Programming Language
 6.3 python因为优化，各种语言风格杂糅；Julia的库大部分都是用Julia写的
 7. Julia数据结构，基本与python一致，
 8. Julia 的高性能库
+
 8.1 微分方程 DifferentialEquations.jl 、DiffEqFlux.jl
+
 8.2 最优化 convex.jl、JuMP.jl
+
 8.3 机器学习 Flux.jl
+
 8.4 数值计算 vs matlab
+
+...
 9. 展示
