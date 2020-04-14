@@ -7,8 +7,8 @@ the Julia Programming Language
 6. 与python的对比：
 6.1 python速度慢，第三方包慢；Julia可能要快百倍
 6.2 python矢量计算不通用；Julia使用多分派范式, 容易表达很多面向对象和函数编程的模式。
-6.3 python因为优化，各种语言风格杂糅；Julia的库大部分都是用Julia写的
-7. Julia数据结构，基本与python一致，
+6.3 python各种语言风格杂糅；Julia的库大部分都是用Julia写的
+7. Julia数据结构，基本与python, matlab一致，
 8. Julia 的高性能库
 
 8.1 微分方程 DifferentialEquations.jl 、DiffEqFlux.jl
